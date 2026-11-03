@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.swp
+*.DS_Store
+fcg.db
+fcg.db-*
+
+# Artefatos locais de IDE
+identifier.sqlite
